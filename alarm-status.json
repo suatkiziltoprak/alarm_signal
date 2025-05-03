@@ -1,4 +1,4 @@
 {
-  "alarm": true,
+  "alarm": false,
   "message": "There is an alert!"
 }
